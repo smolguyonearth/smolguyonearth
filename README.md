@@ -4,7 +4,6 @@
     </a>
     <h3 style="margin: 1em; font-size: 1.5em; font-weight: bold;">Welcome guys, <span style="font-size: 1em; font-weight: normal;">I'm smolguyonearth</span></h3>
 </div>
-<br>
 
 ---
 
