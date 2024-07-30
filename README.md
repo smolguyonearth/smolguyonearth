@@ -2,7 +2,7 @@
     <a href="https://emoji.gg/emoji/56585-welcomepepe">
         <img src="https://cdn3.emoji.gg/emojis/56585-welcomepepe.png" width="64px" height="64px" alt="welcomepepe" style="vertical-align: middle; margin-right: 10px;">
     </a>
-    <h3 style="margin: 1em; font-size: 1.5em; font-weight: bold;">Welcome guys, <span style="font-size: 1em; font-weight: normal;">I'm smolguyonearth</span></h3>
+    <h3 style="margin: 1em; font-size: 1.5em; font-weight: bold;">Wsup guys, <span style="font-size: 1em; font-weight: normal;">I'm smolguyonearth</span></h3>
 </div>
 
 ---
