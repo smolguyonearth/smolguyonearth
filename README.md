@@ -97,4 +97,4 @@
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 
 ✨
-_If you're wondering why I didn't choose a specific path, the answer is that "I haven't found myself yet"_
+_Well, Nice to meet you_
