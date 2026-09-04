@@ -13,8 +13,8 @@
 
 <br>
 
-> **_"Somewhere, something remarkable is waiting to be discovered."_**  
-> — _Carl Sagan_
+> **_"To see the world, things dangerous to come to, to see behind walls, draw closer, to find each other, and to feel. That is the purpose of life."_**  
+> — _Walter Mitty_
 
 </div>
 
